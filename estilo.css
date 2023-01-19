@@ -1,0 +1,19 @@
+
+.conteiner{
+    background-color: rgb(76, 58, 94) ;
+    width: 400px;
+    height: 600px;
+    margin: 50px;
+
+}
+    
+.box {
+    position:absolute;
+    top: 70px;
+
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+}
+
+

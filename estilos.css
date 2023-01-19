@@ -1,0 +1,13 @@
+.relative-parent{
+    background-color: bisque;
+
+}
+
+.relative{
+    background: beige;
+    height: 100px;
+    width: 300px;
+    position: relative;
+    top: 20px;
+    left: 45px;
+}
